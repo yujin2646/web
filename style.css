@@ -1,0 +1,66 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.bg00 {
+    width: 90vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+
+.bg01 {
+    background-image: url(img/bg01.png);
+}
+
+.bg02 {
+    background-image: url(img/bg02.png);
+}
+
+.bg03 {
+    background-image: url(img/bg03.png);
+}
+
+.bg04 {
+    background-image: url(img/bg04.png);
+}
+
+
+.box1 {
+    border: 3px solid black;
+    width: 90vw;
+    height: 100vh;
+}
+
+.box2 {
+    width: 90vw;
+    height: 100vh;
+    border-top: none;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+
+}
+
+.box3 {
+    width: 90vw;
+    height: 100vh;
+    border-top: none;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
+
+.box4 {
+    width: 90vw;
+    height: 100vh;
+    border-top: none;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
